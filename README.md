@@ -33,3 +33,25 @@ The environment merges two social functions within a single coherent space, emph
 ## Tools
 - Blender
 - Adobe Substance 3D Painter
+
+
+## Stylized Environment – Maleficent’s Room (Reinterpretation)
+
+[Maleficent Room](assets/Final1.png)
+
+This project is a stylized 3D reinterpretation of a cinematic environment inspired by Maleficent’s room from a Disney live-action adaptation of Snow White.
+
+The focus of this work is not strict reproduction, but atmospheric reinterpretation, emphasizing mood, lighting and narrative tension through spatial composition.
+
+---
+
+## Key Focus
+- Stylized environment design  
+- Cinematic lighting and mood  
+- Material and atmosphere exploration  
+- Interpretation of existing film language in 3D space  
+
+---
+
+## Views
+[Detail](assets/Final6.png)
