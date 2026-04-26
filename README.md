@@ -25,6 +25,7 @@ The environment merges two social functions within a single coherent space, emph
 
 ## Views
 [Bar Area](assets/DettaglioBancone.png)
+
 [Restaurant Area](assets/DettaglioRistorante.png)
 
 ---
